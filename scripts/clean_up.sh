@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-echo " ************ START: POST INSTALL START ************ "
-
+echo " ************ START: POST INTALL START ************ "
 # 3ks permission
 sudo chmod 644 /etc/rancher/k3s/k3s.yaml
 
